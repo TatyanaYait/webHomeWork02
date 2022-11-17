@@ -1,12 +1,23 @@
 body {
     background-color: rgb(240, 243, 252);
 }
+
 h1 {
-    color:rgb(231, 5, 5)
+    color: rgb(231, 5, 5);
 }
+
 h2 {
-    color: rgb(141, 8, 8) ;
+    color: rgb(141, 8, 8);
 }
+
 .basic_tasks {
     font-size: 22px;
+}
+
+.img_me {
+    width: 500px;
+}
+
+.img_another {
+    width: 400px;
 }
